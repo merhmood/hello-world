@@ -1,0 +1,32 @@
+.product .product-header {
+  position: relative;
+  background-color: #29293d;
+  color: white;
+  padding: 7px 250px;
+  margin-top: 10px;
+  border-radius: 3px;
+}
+.product .product-header p {
+  display: inline;
+  margin-right: 0px 100px 0px 300px;
+  font-size: 0.84rem;
+}
+.product .product-header p:hover {
+  cursor: pointer;
+  color: #8585ad;
+}
+.product .product-header span {
+  position: absolute;
+  left: 1075px;
+  font-weight: bolder;
+}
+.product .product-header span:hover {
+  cursor: pointer;
+}
+.product {
+  margin-left: 100px;
+}
+.product-header-hide {
+  visibility: hidden;
+  margin-top: -26px;
+}

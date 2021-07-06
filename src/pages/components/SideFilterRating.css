@@ -1,0 +1,20 @@
+.four-star {
+  width: 175px;
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+.three-star {
+  width: 175px;
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+.two-star {
+  width: 175px;
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+.one-star {
+  width: 175px;
+  margin-bottom: 5px;
+  cursor: pointer;
+}

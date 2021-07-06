@@ -1,0 +1,18 @@
+.error-value-true {
+  background-color: #ff9999;
+  color: #cc0000;
+  margin: 20px 0px 3px -10px;
+  font-size: 0.8rem;
+  text-align: center;
+  padding: 6px 0px 6px 30px;
+}
+.error-value-false {
+  visibility: hidden;
+}
+.remove-error-message {
+  margin-left: 35px;
+  font-weight: bolder;
+}
+.remove-error-message:hover {
+  cursor: pointer;
+}
